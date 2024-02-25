@@ -1,0 +1,7 @@
+/Users/wangenze/个人/rust_test/demo/target/debug/deps/libstrsim-bda3df516087c613.rmeta: /Users/wangenze/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strsim-0.8.0/src/lib.rs
+
+/Users/wangenze/个人/rust_test/demo/target/debug/deps/libstrsim-bda3df516087c613.rlib: /Users/wangenze/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strsim-0.8.0/src/lib.rs
+
+/Users/wangenze/个人/rust_test/demo/target/debug/deps/strsim-bda3df516087c613.d: /Users/wangenze/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strsim-0.8.0/src/lib.rs
+
+/Users/wangenze/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strsim-0.8.0/src/lib.rs:
